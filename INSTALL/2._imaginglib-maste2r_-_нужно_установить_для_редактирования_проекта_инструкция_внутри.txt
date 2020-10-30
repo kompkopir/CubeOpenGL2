@@ -1,0 +1,22 @@
+Compiler Setup
+
+Compiling Library:
+
+Delphi/Kylix Setup:
+
+You need to add directories listed in the above table to library path: 
+
+1.Choose ToolsOptionsEnvironment OptionsDelphi OptionsLibrary - Win32 in Delphi 2005+ or ToolsEnvironment OptionsLibrary in Delphi 7- and Kylix. 
+2.Add directories to Library path string.
+
+Library path string:
+
+Directory Contents 
+(Imaging Root)\Source
+(Imaging Root)\Source\JpegLib
+(Imaging Root)\Source\ZLib
+(Imaging Root)\Extensions
+(Imaging Root)\Extensions\J2KObjects 
+(Imaging Root)\Extensions\LibTiff 
+(Imaging Root)\Demos\ObjectPascal\Common
+(Imaging Root)\Extras\Extensions
