@@ -20,3 +20,7 @@ Directory Contents
 (Imaging Root)\Extensions\LibTiff 
 (Imaging Root)\Demos\ObjectPascal\Common
 (Imaging Root)\Extras\Extensions
+
+Не требуются в данном проекте:
+(Imaging Root)\Packages
+(Imaging Root)\Extras\DynamicLib\ImportHeaders
